@@ -1,3 +1,13 @@
+---
+layout: post
+title: Privacy Policy
+date: 2012-11-02
+Author: zmlm8848
+categories: 
+tags: [sample, document]
+comments: true
+--- 
+
 **Privacy Policy**
 
 zmlm8848 built the zmlm8848 app as a Free app. This SERVICE is provided by zmlm8848 at no cost and is intended for use as is.
