@@ -1,0 +1,3 @@
+#Last update Feb 20, 2023
+#=== Admob Aug 23, 2022
+google.com, pub-5704311225305300, DIRECT, f08c47fec0942fa0
