@@ -1,4 +1,7 @@
 [{
-   "ad":0,
-   "freeTimes":2
+   "key":"ad",
+   "value":"0"
+},{
+   "key":"freetimes",
+   "value":"1"
 }]
